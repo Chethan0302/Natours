@@ -19,7 +19,7 @@ Natours is a nature tours application built with Node.js, Express.js, and MongoD
 
 3. Set up environment variables:
 
-   Create a `.env` file in the root directory and add the following variables:
+   Create a `config.env` file in the root directory and add the following variables:
 
    ```plaintext
    PORT=3000
@@ -30,16 +30,14 @@ Natours is a nature tours application built with Node.js, Express.js, and MongoD
 4. Start the server:
 
    ```bash
-   npm start
+   npm run start:dev
    ```
 
-## Authentication
+## Site is live at https://natours-f8h4.onrender.com/
 
-The API uses JWT (JSON Web Tokens) for authentication. Include the JWT token in the request headers as follows:
+## API Documentation
 
-```plaintext
-Authorization: Bearer your_jwt_token
-```
+The API documentation is live at https://natours-f8h4.onrender.com/api-docs/
 
 ## License
 

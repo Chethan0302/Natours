@@ -14,7 +14,7 @@ const options = {
         description: 'Local server',
       },
       {
-        url: 'https://natours-2-upil.onrender.com',
+        url: 'https://natours-f8h4.onrender.com',
         description: 'Live server',
       },
     ],
