@@ -7,7 +7,7 @@ Natours is a nature tours application built with Node.js, Express.js, and MongoD
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ChethanGlobussoft/Natours.git
+   git clone https://github.com/Chethan0302/Natours.git
    ```
 
 2. Install dependencies:
